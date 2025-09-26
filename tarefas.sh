@@ -51,4 +51,5 @@ echo
 echo "Todas as 7 tarefas foram concluidas com sucesso em $TRABALHO_BASH."
 
 # No Linux, não usamos 'pause'. O script simplesmente termina.
+
 # Para pausar: read -p "Pressione [Enter] para sair..."
